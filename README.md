@@ -1,3 +1,2 @@
-# helloword
-just another repository
-it's nice to meet you here！
+### helloword
+This is a personal repository for learning C++, good good study!
